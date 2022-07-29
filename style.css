@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: 30px;
+    background-color: rgb(78, 0, 78);
+    border: 0px;
+    border-radius: 0px;
+    color: white;
+}
+.header:hover {
+    color: white;
+}
+.input_class{
+    margin: 5px;
+    width: 20%;
+    border-radius: 30px;
+    background-color: rgba(211, 211, 211, 0.429);
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+}
+canvas{
+    border-radius: 10px;
+    background-color: red;
+    box-shadow: 7px 7px 7px white;
+    margin-top: 130px;
+}
+p{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
+#below
+{
+    font-size: 14px;
+    color: white;
+    font-style: italic;
+}
